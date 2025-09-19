@@ -9,10 +9,7 @@ Detect faults (e.g., short‑circuit, open‑circuit) in power systems using vol
 3. Usage  
 4. Model & Evaluation  
 5. IBM Cloud Deployment  
-6. Project Structure  
-7. Roadmap  
-8. Contributing  
-9. License & Acknowledgements
+6. Project Structure
 
 ---
 
@@ -52,6 +49,3 @@ print("Predicted fault type:", response.json())
 │   ├── deploy_ibm.py
 ├── requirements.txt
 └── README.md
-
-
-
